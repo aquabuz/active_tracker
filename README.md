@@ -1,5 +1,8 @@
 # workout_tracker
 
+## Demo:
+Demo [aquabuz.github.io/active_tracker](https://aquabuz.github.io/active_tracker/)
+
 ## Project setup
 ```
 npm install
